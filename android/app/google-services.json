@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651988040094",
+    "project_id": "gofinance-b83f6",
+    "storage_bucket": "gofinance-b83f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651988040094:android:fd03849dfe8f3e08acbe8f",
+        "android_client_info": {
+          "package_name": "com.gofinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651988040094-1qnla6thf78aru18accflofvhkvdlhg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdB6DKKNN2iE4x-E-oe1z4OvYQNWpk1HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651988040094-1qnla6thf78aru18accflofvhkvdlhg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
