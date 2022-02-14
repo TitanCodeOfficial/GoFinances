@@ -8,7 +8,7 @@ import {ThemeProvider} from 'styled-components';
 import {theme} from './src/styles/theme'
 
 GoogleSignin.configure({
-  webClientId: '651988040094-1qnla6thf78aru18accflofvhkvdlhg0.apps.googleusercontent.com',
+  webClientId: '',
 });
 
 const App = () => {
